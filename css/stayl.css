@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+.box{
+    width: 1400px;
+    border: 1px solid;
+    margin: 100px;
+}
+.box2{
+    width: 980px;
+    border:1px solid;
+    /* margin: 40px; */
+    background-image: url(../css/fon.png);
+    
+    
+ }
+ .nav{
+   
+    list-style: none;
+    margin-left:  700px; 
+    text-decoration: none;
+   
+ }
+ .nav li {
+    text-decoration: none;
+    float: left;
+     padding: 10px;
+    list-style: none;
+    margin-top: 10px;
+    margin-bottom: 40px;
+
+ }
+ .stayl a{
+    text-decoration: none;
+    font-size: 20px;
+    color:blue;
+ }
+ .clear{
+    clear: both;
+ }
+#logo{
+    color:rgb(69, 69, 249);
+    font-size: 30px;
+    margin-top: 15px;
+    float: left;
+    margin-left:  60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.text{
+    width: 420px;
+    margin: 20px;
+}
+#phone{
+    margin-left: 500px;
+   float: right;
+    width: 50%;
+    margin: 10px;
+}
+
+.text{
+   float: left;
+    /* width: 30%; */
+    margin-top: 60px;
+   
+    font-size: 20px;
+
+}
+.text h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 10px;
+    line-height: 40px;
+    margin-top: 40px;
+}
+.text a{
+    margin-top: 70px;
+    padding: 10px;
+    display: inline-block;
+}
+            /* ikkichi satr*/
+.box3{
+  
+position: relative;
+width: 1440px;
+/* height: 4516px; */
+
+     
+}
+.quti{
+    position: absolute;
+    width: 4250px;
+    /* height: 525px; */
+    left: 120px;
+    top: 1136px;
+    
+    background: #FFFFFF;
+    box-shadow: 5px 20px 50px rgba(74, 153, 211, 0.2);
+    border-radius: 10px
+   
+ 
+}
+.leassing{
+    width: 200px;
+    margin: 25px;
+    color: gray;
+    /* border:1px solid; */
+    line-height: 25px;
+  
+}
+.leassing a{
+    text-decoration: none;
+    position: absolute;
+    font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    font-style: normal ;
+    
+}
+.leassing  svg{
+  width: 20px;
+  fill: blue;
+  top: 4px;
+  position: absolute;
+  margin-left: 5px;
+
+    
+}
+.quti2{
+    position: absolute;
+    width: 380px;
+    height: 425px;
+    left: 530px;
+    top: 1136px;
+    
+    background: #FFFFFF;
+    box-shadow: 5px 20px 50px rgba(74, 153, 211, 0.2);
+    border-radius: 10p
+   
+}
+.quti3{
+    position: absolute;
+    width: 380px;
+    height: 425px; 
+    left: 940px;
+    top: 1136px;
+    
+    background: #FFFFFF;
+    box-shadow: 5px 20px 50px rgba(74, 153, 211, 0.2);
+    border-radius: 10px;
+}
+
